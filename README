@@ -1,1 +1,8 @@
 A
+합계 24
+drwxrwxr-x 3 user32211853 user32211853 4096  4월  2 20:29 .
+drwxrwxr-x 5 user32211853 user32211853 4096  4월  2 20:29 ..
+drwxrwxr-x 8 user32211853 user32211853 4096  4월  2 20:32 .git
+-rw-rw-r-- 1 user32211853 user32211853    2  4월  2 20:31 README
+-rw-rw-r-- 1 user32211853 user32211853   19  4월  2 20:29 test.c
+-rw-rw-r-- 1 user32211853 user32211853    9  4월  2 20:29 test.txt
